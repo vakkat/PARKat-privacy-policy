@@ -23,7 +23,7 @@ The website includes:
 - `download.html` – Installation instructions
 - `guide.html` – User guide
 - `privacy.html` – Privacy Policy
-- `styles.css` – Styling (Poppins font, app-inspired design)
+- `styles.css` – Styling 
 - `app.js` – Language toggle (Greek / English)
 
 ## Deployment
