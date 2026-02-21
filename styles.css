@@ -54,7 +54,6 @@ header{
   width:36px;
   height:36px;
   object-fit: contain;
-  border-radius:8px; /* optional */
 }
 
 .navlinks{ display:flex; gap:10px; margin-left:10px; flex:1; flex-wrap:wrap; }
